@@ -1,6 +1,6 @@
 {
-  "name" : "tblack-it/monday-api",
-  "description" : "Monday v2 API developed by TBLACK-IT",
+  "name" : "radweb/monday-api",
+  "description" : "Monday v2 API developed by TBLACK-IT. Forked to fix error",
   "authors": [
     {
         "name": "Pedro Teixeira",
